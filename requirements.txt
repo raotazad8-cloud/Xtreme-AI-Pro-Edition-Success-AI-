@@ -1,4 +1,0 @@
-Flask
-anthropic
-wikipedia
-gunicorn
