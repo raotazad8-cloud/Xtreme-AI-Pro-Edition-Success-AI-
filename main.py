@@ -44,7 +44,7 @@ class XAI:
                     }
                 return {"text": "❌ This is not found . ", "url": None}
         except:
-            return {"text": "⚠️ নেটওয়ার্ক এরর!", "url": None}
+            return {"text": "⚠️ Wrong !!!", "url": None}
 
     def solve_math(self, query):
         """গণিত সমাধান করার ইঞ্জিন"""
