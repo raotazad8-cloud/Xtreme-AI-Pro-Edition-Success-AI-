@@ -1,7 +1,0 @@
-Xtreme-AI-Vercel/
-├── api/
-│   └── index.py
-├── public/
-│   └── index.html
-├── requirements.txt
-└── vercel.json
